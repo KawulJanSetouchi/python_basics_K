@@ -1,0 +1,9 @@
+services:
+     transformers-notebook:
+         image: jupyter/tensorflow-notebook
+         ports:
+             - 8001:8888
+         environment:
+           - JUPYTER_TOKEN=kawuljan
+         volumes:
+           - ./:/home/jovyan
