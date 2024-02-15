@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db5777b7-3304-439a-a707-59ed41b6a6b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MachinLearining/cctree_from_voxel_grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/image_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/kd_tree_feature_matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/kd_tree_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/octree_find_leaf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/octree_point_cloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/octree_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/pointCloud_test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_to_depth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_to_rgbd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_voxel_downsampling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_with_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/ray_casting_closest_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/ray_casting_sdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/ray_casting_to_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/rgbd_datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/triangle_mesh_connected_components.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/triangle_mesh_deformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachinLearining/triangle_mesh_filtering_average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faceRecognize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/managementSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordCreater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_Method/Insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort_Method/pro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud01.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_bounding_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud02.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_convex_hull.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud03.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/pointCloud_Visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud05.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_crop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud06.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_dbscan_clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud07.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud08.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_farthest_point_sampling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud09.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_hidden_point_removal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud10.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_iss_keypoint_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud11.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_normal_estimation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud12.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_outlier_removal_radius.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud13.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_outlier_removal_statistical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud14.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_paint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachinLearining/pointCloud_sementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachinLearining/point_cloud_plane_segmentation.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Scratches and Consoles" color="Blue" />
+    <fileColor scope="Open Files" color="Gray" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MachinLearining" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MachinLearining/Classifier.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/Lib/site-packages/shapely/ops.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XHja7s9A1gO3TYSYG5I1x4cVRp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Classifier.executor": "Run",
+    "Python.Forst_image.executor": "Run",
+    "Python.Insertion_sort.executor": "Run",
+    "Python.QML_Cirq.executor": "Run",
+    "Python.QML_Cirq01.executor": "Run",
+    "Python.cctree_from_voxel_grid.executor": "Run",
+    "Python.cirq.executor": "Run",
+    "Python.faceRecognize.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.image_processing.executor": "Run",
+    "Python.kd_tree_feature_matching.executor": "Run",
+    "Python.kd_tree_search.executor": "Run",
+    "Python.managementSystem.executor": "Run",
+    "Python.octree_find_leaf.executor": "Run",
+    "Python.octree_point_cloud.executor": "Run",
+    "Python.octree_traversal.executor": "Run",
+    "Python.passwordCreater.executor": "Run",
+    "Python.pointCloud01.executor": "Run",
+    "Python.pointCloud02.executor": "Run",
+    "Python.pointCloud03.executor": "Run",
+    "Python.pointCloud04.executor": "Run",
+    "Python.pointCloud05.executor": "Run",
+    "Python.pointCloud06.executor": "Run",
+    "Python.pointCloud07.executor": "Run",
+    "Python.pointCloud08.executor": "Run",
+    "Python.pointCloud09.executor": "Run",
+    "Python.pointCloud10.executor": "Run",
+    "Python.pointCloud11.executor": "Run",
+    "Python.pointCloud12.executor": "Run",
+    "Python.pointCloud13.executor": "Run",
+    "Python.pointCloud14.executor": "Run",
+    "Python.pointCloud15.executor": "Run",
+    "Python.pointCloud16.executor": "Run",
+    "Python.pointCloud_sementation.executor": "Run",
+    "Python.point_cloud_farthest_point_sampling.executor": "Run",
+    "Python.point_cloud_iss_keypoint_detector.executor": "Run",
+    "Python.point_cloud_outlier_removal_radius (1).executor": "Run",
+    "Python.point_cloud_outlier_removal_statistical (1).executor": "Run",
+    "Python.point_cloud_paint.executor": "Run",
+    "Python.point_cloud_to_rgbd.executor": "Run",
+    "Python.point_cloud_transformation.executor": "Run",
+    "Python.point_cloud_voxel_downsampling.executor": "Run",
+    "Python.point_cloud_with_numpy.executor": "Run",
+    "Python.pro.executor": "Run",
+    "Python.ray_casting_closest_geometry.executor": "Run",
+    "Python.ray_casting_sdf.executor": "Run",
+    "Python.ray_casting_to_image.executor": "Run",
+    "Python.rgbd_datasets.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.simulation.executor": "Run",
+    "Python.stockfile.executor": "Run",
+    "Python.triangle_mesh_connected_components.executor": "Run",
+    "Python.triangle_mesh_deformation.executor": "Run",
+    "Python.triangle_mesh_filtering_average.executor": "Run",
+    "Python.utils.executor": "Run",
+    "Python.voxel_grid_from_triangle_mesh.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/kawuli/Desktop/ML_test/venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kawuli\Desktop\ML_test" />
+      <recent name="C:\Users\kawuli\Desktop\ML_test\MachinLearining" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kawuli\Desktop\ML_test\Forest_Data_projects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.point_cloud_paint">
+    <configuration name="point_cloud_paint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachinLearining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachinLearining/point_cloud_paint.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rgbd_datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachinLearining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachinLearining/rgbd_datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangle_mesh_connected_components" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachinLearining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachinLearining/triangle_mesh_connected_components.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangle_mesh_deformation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachinLearining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachinLearining/triangle_mesh_deformation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangle_mesh_filtering_average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML_test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachinLearining" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachinLearining/triangle_mesh_filtering_average.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.point_cloud_paint" />
+        <item itemvalue="Python.triangle_mesh_filtering_average" />
+        <item itemvalue="Python.triangle_mesh_deformation" />
+        <item itemvalue="Python.triangle_mesh_connected_components" />
+        <item itemvalue="Python.rgbd_datasets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5777b7-3304-439a-a707-59ed41b6a6b0" name="Changes" comment="" />
+      <created>1698292960466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698292960466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
